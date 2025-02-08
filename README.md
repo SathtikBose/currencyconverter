@@ -1,4 +1,6 @@
 # React + Vite
+To see the website 
+https://currencyconverterapppii.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
